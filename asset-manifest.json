@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-sten/static/css/main.d0a82d85.chunk.css",
+    "main.js": "/weather-sten/static/js/main.45d4786b.chunk.js",
+    "main.js.map": "/weather-sten/static/js/main.45d4786b.chunk.js.map",
+    "runtime~main.js": "/weather-sten/static/js/runtime~main.c802e76f.js",
+    "runtime~main.js.map": "/weather-sten/static/js/runtime~main.c802e76f.js.map",
+    "static/js/2.7d68266f.chunk.js": "/weather-sten/static/js/2.7d68266f.chunk.js",
+    "static/js/2.7d68266f.chunk.js.map": "/weather-sten/static/js/2.7d68266f.chunk.js.map",
+    "index.html": "/weather-sten/index.html",
+    "precache-manifest.d6476c3bd13da5a160512a087a252f98.js": "/weather-sten/precache-manifest.d6476c3bd13da5a160512a087a252f98.js",
+    "service-worker.js": "/weather-sten/service-worker.js",
+    "static/css/main.d0a82d85.chunk.css.map": "/weather-sten/static/css/main.d0a82d85.chunk.css.map"
+  }
+}
